@@ -22,21 +22,5 @@ I'm Kamil, a passionate DevOps Engineer with a knack for crafting seamless and e
 ![icons8-ansible (3)](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/57108c43-a8bf-40c9-973f-7c568006543d)
 
 ## 📊 Github Stats:
-![](https://raw.githubusercontent.com/PaulinaAlicja/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/PaulinaAlicja/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](https://raw.githubusercontent.com/PaulinaAlicja/stats2/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/PaulinaAlicja/stats2/master/generated/languages.svg#gh-dark-mode-only)
