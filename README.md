@@ -1,26 +1,16 @@
-## Hello and nice to see you! 👋
+# 💫 About Me:
+Hello there! I'm Paulina, a passionate individual on a mission to master the art of graphic design and editing. Currently immersed in the fascinating world of creative expression, I'm dedicated to honing my skills and unleashing my imagination onto the digital canvas. Join me on this exciting learning adventure as I explore the endless possibilities of visual storytelling. Let's create something extraordinary together!
 
-I'm Kamil, a passionate DevOps Engineer with a knack for crafting seamless and efficient development pipelines. Formerly a backend developer, I've transitioned into DevOps, where I thrive in optimizing workflows and enhancing collaboration between development and operations teams. It would be nice to work with you 😁.
+## 🌐 Socials:
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/paaulinko) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/paaulinko) 
 
-## 🤔 More about me:
-- 🔭 I'm currently working on **Autowarden**
-- 💬 If you need help, with anything that is related to technology, mostly in terms of DevOps feel free to ask me about it
-- 🔎 Checkout my [youtube](https://www.youtube.com/@ReykezPL) and [LinkedIn](https://www.linkedin.com/in/kamil-pfaff/)
-- 🌐 Visit my [website](https://www.pfaff.app) for more details about me
+# 💻 Tech Stack:
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
 
-## 🛠️ Languages and Tools:
-![redhat-svgrepo-com](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/52e652cf-07c7-4fe0-b36e-8c1f9eb3cb64)
-![git-svgrepo-com](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/3764f9e7-8350-4241-abeb-713be0f5ea9e)
-![gitlab-svgrepo-com](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/fefb2786-2072-4839-a302-3048a8d274b0)
-![prometheus-svgrepo-com](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/3d3667d9-57d4-4d09-bd48-090190d57cdd)
-![grafana-svgrepo-com](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/35ff74af-d688-499a-840c-72c8db416064)
-![aws-svgrepo-com](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/ed573e57-27bd-429f-8ee4-7056969950e8)
-![docker-svgrepo-com](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/44c88f64-97b9-4608-bdc1-39146fe21542)
-![kubernetes-svgrepo-com](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/f690c8bc-2e94-4600-a2f6-6062f2aaad2a)
-![sentry-icon-svgrepo-com (1)](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/2aa4807f-8330-4424-83bd-3297e3eb4325)
-![symfony-badge-svgrepo-com (1)](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/4da32942-ba09-4f24-ad3e-0ef13e1642a8)
-![icons8-ansible (3)](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/57108c43-a8bf-40c9-973f-7c568006543d)
-
-## 📊 Github Stats:
+# 📊 GitHub Stats:
 ![](https://raw.githubusercontent.com/PaulinaAlicja/stats2/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/PaulinaAlicja/stats2/master/generated/languages.svg#gh-dark-mode-only)
+
+---
+[![](https://visitcount.itsvg.in/api?id=PaulinaAlicja&icon=7&color=5)](https://visitcount.itsvg.in)
+
