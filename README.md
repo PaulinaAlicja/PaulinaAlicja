@@ -15,17 +15,15 @@ I'm Kamil, a passionate DevOps Engineer with a knack for crafting seamless and e
 ![prometheus-svgrepo-com](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/3d3667d9-57d4-4d09-bd48-090190d57cdd)
 ![grafana-svgrepo-com](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/35ff74af-d688-499a-840c-72c8db416064)
 ![aws-svgrepo-com](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/ed573e57-27bd-429f-8ee4-7056969950e8)
-![symfony-badge-svgrepo-com (1)](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/4da32942-ba09-4f24-ad3e-0ef13e1642a8)
-![icons8-ansible (3)](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/57108c43-a8bf-40c9-973f-7c568006543d)
-![sentry-icon-svgrepo-com (1)](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/2aa4807f-8330-4424-83bd-3297e3eb4325)
 ![docker-svgrepo-com](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/44c88f64-97b9-4608-bdc1-39146fe21542)
 ![kubernetes-svgrepo-com](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/f690c8bc-2e94-4600-a2f6-6062f2aaad2a)
+![sentry-icon-svgrepo-com (1)](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/2aa4807f-8330-4424-83bd-3297e3eb4325)
+![symfony-badge-svgrepo-com (1)](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/4da32942-ba09-4f24-ad3e-0ef13e1642a8)
+![icons8-ansible (3)](https://github.com/PaulinaAlicja/PaulinaAlicja/assets/84330591/57108c43-a8bf-40c9-973f-7c568006543d)
 
 ## 📊 Github Stats:
 ![](https://raw.githubusercontent.com/PaulinaAlicja/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/PaulinaAlicja/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-
+![](https://raw.githubusercontent.com/PaulinaAlicja/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 
 
